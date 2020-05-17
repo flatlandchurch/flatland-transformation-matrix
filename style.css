@@ -27,6 +27,12 @@ body {
     display: none;
 }
 
+.category {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 8px;
+}
+
 header {
     position: sticky;
     width: 100%;
