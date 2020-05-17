@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <title>Transformation Matrix | Flatland Church</title>
+        <link rel="shortcut icon" href="https://flatlandchurch.com/favicon.ico" />
+        <link rel="stylesheet" href="/style.css" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+    <body>
+        <div id="app">
+        <%- content %>
+        </div>
+        <div class="modal" id="discipline-modal">
+            <div class="modal__overlay"></div>
+            <div class="modal__container">
+                <div class="modal__content">
+
+                </div>
+                <button onclick="closeModal()">Close</button>
+            </div>
+        </div>
+        <footer>
+            &copy; <%= year %> • v<%= version %>
+        </footer>
+        <script src="/load.js"></script>
+    </body>
+</html>

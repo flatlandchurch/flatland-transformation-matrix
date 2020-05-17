@@ -2,15 +2,21 @@
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
     padding: 0;
     margin: 0;
+    line-height: 1.25;
 }
 
 body {
     background: #f4f5f7;
 }
 
+a {
+     color: #0052CC;
+}
+
 #app {
     width: 95%;
     margin: 0 auto;
+    max-width: 500px;
 }
 
 .card {
@@ -23,6 +29,20 @@ body {
     box-shadow: 0 1px 2px 0  rgba(9, 30, 66, 0.25);
 }
 
+.card__details {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-top: 1px solid #DFE1E6;
+}
+
+.card__details strong {
+    font-size: 12px;
+    margin-bottom: 4px;
+    display: block;
+}
+
 .category:not(.active) {
     display: none;
 }
@@ -31,23 +51,85 @@ body {
     display: grid;
     grid-template-columns: 1fr;
     grid-gap: 8px;
+    margin-top: 24px;
 }
 
 header {
     position: sticky;
-    width: 100%;
     top: 0;
     left: 0;
-    padding: 12px;
     box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, max-content));
+    width: 180px;
+    padding: 4px 8px;
+    background: #DFE1E6;
+    border-radius: 50px;
+    align-items: center;
+    margin: 24px auto 0;
+    grid-gap: 8px;
+    justify-content: space-between;
 }
 
 header h1 {
-    width: max-content;
-    padding: 4px 8px;
-    box-sizing: border-box;
-    font-size: 14px;
-    background: #DFE1E6;
-    border-radius: 50px;
     margin: 0 auto;
+    font-size: 14px;
+}
+
+header span {
+    top: 3px;
+    position: relative;
+}
+
+header a {
+    color: #172B4D;
+}
+
+header a.deactivate {
+    opacity: 0;
+}
+
+footer {
+    margin-top: 24px;
+    font-size: 12px;
+    color: #6B778C;
+    padding-bottom: 12px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 12px;
+    font-size: 24px;
+}
+
+.modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    display: block;
+    width: 100%;
+}
+
+.modal__overlay {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #091E42aa;
+}
+
+.modal__container {
+    max-width: 350px;
+    width: 100%;
+    height: 100px;
+    background: #fff;
+    z-index: 1000;
+    position: absolute;
+    border-radius: 8px;
+    left: calc(50% - 175px);
+    top: 60px;
 }

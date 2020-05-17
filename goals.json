@@ -4,335 +4,527 @@
     "description": "I find it easy to be very understanding of people who criticize me and fail to live up to the standards I hold for them.",
     "category": "Character",
     "discipline": "Sacrifice",
-    "principles": []
+    "principles": [
+      "Matt 5:43-46",
+      "1 Th 3:12",
+      "1 Jn 4:7-21"
+    ]
   },
   {
     "name": "Joy",
     "description": "I find pleasure in most everything I do and I am content with all that God has given to me.",
     "category": "Character",
     "discipline": "Celebration",
-    "principles": []
+    "principles": [
+      "Php 4:12-13",
+      "Jas 1:2-4",
+      "1 Pe 1:3-9"
+    ]
   },
   {
     "name": "Peace",
     "description": "It is easy for me to forgive myself and others, and I am free from stress, anxiety, depression and fear.",
     "category": "Character",
     "discipline": "Meditation",
-    "principles": []
+    "principles": [
+      "Isa 53:4-6",
+      "Mat 6:25-34",
+      "Php 4:6-9"
+    ]
   },
   {
     "name": "Patience",
     "description": "I am quite capable of handling periods of suffering and pressure without becoming irritable or frustrated.",
     "category": "Character",
     "discipline": "Solitude",
-    "principles": []
+    "principles": [
+      "Rom 5:1-5",
+      "Col 1:9-14",
+      "2 Ti 3:10-17"
+    ]
   },
   {
     "name": "Kindness",
     "description": "I am quick to lend a hand when someone is in need or in trouble, expecting nothing in return.",
     "category": "Character",
     "discipline": "Lifestyle",
-    "principles": []
+    "principles": [
+      "Luk 6:27-36",
+      "Luk 10:25-37",
+      "1 Th 5:15"
+    ]
   },
   {
     "name": "Faithfulness",
     "description": "I maintain my commitments to and think highly of those in authority over me and those who depend on me.",
     "category": "Character",
     "discipline": "Confession",
-    "principles": []
+    "principles": [
+      "Mat 5:33-37",
+      "Mrk 10:42-45",
+      "Luk 16:10-12"
+    ]
   },
   {
     "name": "Gentleness",
     "description": "I allow others to make mistakes without becoming withdrawn or angry when it is necessary to confront them.",
     "category": "Character",
     "discipline": "Reflection",
-    "principles": []
+    "principles": [
+      "Mat 18:15-17",
+      "Col 3:12-13",
+      "1 Pe 3:8-17"
+    ]
   },
   {
     "name": "Self-Control",
     "description": "I manage my time and finances well without the interference of addictive or immoral behavior.",
     "category": "Character",
     "discipline": "Fasting",
-    "principles": []
+    "principles": [
+      "1 Th 5:5-11",
+      "Tit 2:11-14",
+      "1 Pe 4:1-7"
+    ]
   },
   {
     "name": "Marital Situation",
     "description": "I am very content with my current marital situation, and I do not wrestle with any type of sexual immorality.",
     "category": "Home",
     "discipline": "Fasting",
-    "principles": []
+    "principles": [
+      "Pro 6:20",
+      "1 Co 7:1-40",
+      "Eph 5:22-31"
+    ]
   },
   {
     "name": "Immediate Family",
     "description": "I have excellent relationships with everyone in my immediate family and communicate with them regularly.",
     "category": "Home",
     "discipline": "Celebration",
-    "principles": []
+    "principles": [
+      "Pro 11:29",
+      "Mat 12:25",
+      "Col 3:18-21"
+    ]
   },
   {
     "name": "Finances",
     "description": "I view my finances and possessions as blessings from God, giving generously and spending wisely with no indebtedness.",
     "category": "Home",
     "discipline": "Tithing",
-    "principles": []
+    "principles": [
+      "Pro 3:9-10",
+      "Ecc 5:10-20",
+      "Mat 6:19-21"
+    ]
   },
   {
     "name": "Free-Time",
     "description": "I regularly take time for myself, engaging in activities that strengthen and refresh me rather than trying to escape.",
     "category": "Home",
     "discipline": "Solitude",
-    "principles": []
+    "principles": [
+      "Psa 90:12",
+      "Ecc 3:1-13",
+      "2 Th 3:6-13"
+    ]
   },
   {
     "name": "Spiritual Formation",
     "description": "I actively welcome God into my home, set a godly example and encourage the faith of my family members.",
     "category": "Home",
     "discipline": "Prayer",
-    "principles": []
+    "principles": [
+      "Deu 6:5-9",
+      "Jos 24:15",
+      "Act 10:1-48"
+    ]
   },
   {
     "name": "Personal Development",
     "description": "I strive to learn new things and deepen my current pool of knowledge, encouraging my family to do the same.",
     "category": "Home",
     "discipline": "Study",
-    "principles": []
+    "principles": [
+      "Pro 1:1-7",
+      "Php 1:9-11",
+      "2 Pe 1:3-9"
+    ]
   },
   {
     "name": "Health",
     "description": "I have a healthy lifestyle in regard to diet, excercise, grooming, and cleanliness without and excessive preoccupation with them.",
     "category": "Home",
     "discipline": "Lifestyle",
-    "principles": []
+    "principles": [
+      "Dan 1:8-16",
+      "Jos 24:15",
+      "Act 10:1-48"
+    ]
   },
   {
     "name": "Hospitality",
     "description": "I welcome people to my home, using opportunity to strengthen and encourage them in life's journey.",
     "category": "Home",
     "discipline": "Rest",
-    "principles": []
+    "principles": [
+      "Act 2:44-47",
+      "Act 28:7",
+      "Rom 12:13"
+    ]
   },
   {
     "name": "Social Network",
     "description": "I have a solid group of friends who keep me accountable, encourage me and strengthen my relationship with God.",
     "category": "Relationships",
     "discipline": "Attendance",
-    "principles": []
+    "principles": [
+      "Rom 15:1-7",
+      "Ecc 4:9-12",
+      "Col 3:15-17"
+    ]
   },
   {
     "name": "Relatives",
     "description": "All my relationships with my extended family and in-laws are vibrant and healthy. I enjoy spending time with them.",
     "category": "Relationships",
     "discipline": "Prayer",
-    "principles": []
+    "principles": [
+      "Gen 45:1-15",
+      "1 Ti 5:4-8",
+      "Heb 12:14-15"
+    ]
   },
   {
     "name": "Tolerance",
     "description": "I have strong relationships with people who are quite different than me, and I do not wrestle with bias or bigotry of any kind.",
     "category": "Relationships",
     "discipline": "Sacrifice",
-    "principles": []
+    "principles": [
+      "Act 10:1-28",
+      "Rom 14:1-12",
+      "Jas 2:1-9"
+    ]
   },
   {
     "name": "Being Mentored",
     "description": "There are several people more experienced than me who personally influence my life on a regular basis.",
     "category": "Relationships",
     "discipline": "Guidance",
-    "principles": []
+    "principles": [
+      "Pro 19:20",
+      "Act 18:24-26",
+      "2 Ti 3:10-17"
+    ]
   },
   {
     "name": "Mentoring Others",
     "description": "I have a positive, personal influence on the lives of several people with less experience than me.",
     "category": "Relationships",
     "discipline": "Lifestyle",
-    "principles": []
+    "principles": [
+      "Php 4:8-9",
+      "Tit 2:1-15",
+      "Heb 5:11-14"
+    ]
   },
   {
     "name": "Compassion",
     "description": "I am generous with and quick to respond to the needs of my friends and family without expecting anything in return.",
     "category": "Relationships",
     "discipline": "Reflection",
-    "principles": []
+    "principles": [
+      "Gal 6:1-10",
+      "Jas 2:12-17",
+      "Jdg 1:20-23"
+    ]
   },
   {
     "name": "Receiving Criticism",
     "description": "I like to be challenged by my peers and am willing to accept criticism without lashing out or harboring bitterness.",
     "category": "Relationships",
     "discipline": "Rest",
-    "principles": []
+    "principles": [
+      "Pro 15:31",
+      "Pro 17:9-10",
+      "1 Pe 3:8-9"
+    ]
   },
   {
     "name": "Forgiveness",
     "description": "When I am hurt or offended, I am quick to confront the responsible person in love and do not speak ill of them to others.",
     "category": "Relationships",
     "discipline": "Confession",
-    "principles": []
+    "principles": [
+      "Mat 5:21-26",
+      "Mat 18:21-35",
+      "Luk 17:3-4"
+    ]
   },
   {
     "name": "Education",
     "description": "I am well-educated with regard to my work and I am continually learning and applying new information as it develops.",
     "category": "Industry",
     "discipline": "Study",
-    "principles": []
+    "principles": [
+      "Pro 22:29",
+      "Dan 1:1-20",
+      "Gal 6:4-5"
+    ]
   },
   {
     "name": "Gifts Match",
     "description": "My work is perfect match with my areas of giftedness. What I do for a living come rather natural for me.",
     "category": "Industry",
     "discipline": "Guidance",
-    "principles": []
+    "principles": [
+      "Jer 29:11",
+      "Rom 12:1-8",
+      "Pro 22:1-4"
+    ]
   },
   {
     "name": "Contribution",
     "description": "I thoroughly enjoy serving the people who benefit from the results of my labor. My work is a tremendous blessing to others.",
     "category": "Industry",
     "discipline": "Sacrifice",
-    "principles": []
+    "principles": [
+      "Mat 19:16-22",
+      "Luk 13:1-17",
+      "Rom 6:7-10"
+    ]
   },
   {
     "name": "Employee Relations",
     "description": "I have terrific relationships with everyone I work with regardless of their position. We are a team.",
     "category": "Industry",
     "discipline": "Attendance",
-    "principles": []
+    "principles": [
+      "Rom 12:9-11",
+      "Pro 15:1-4",
+      "Gal 6:2-3"
+    ]
   },
   {
     "name": "Empowerment",
     "description": "Whenever things are not going right, I am able to influence positive change without offending or ostracizing others.",
     "category": "Industry",
     "discipline": "Solitude",
-    "principles": []
+    "principles": [
+      "Rom 8:28",
+      "Eph 3:14-19",
+      "Mat 5:13-16"
+    ]
   },
   {
     "name": "Goals",
     "description": "I am motivated by compelling, realistic goals that stretch my abilities and challenge me to work with excellence.",
     "category": "Industry",
     "discipline": "Prayer",
-    "principles": []
+    "principles": [
+      "Pro 12:11",
+      "Pro 16-19",
+      "Jhn 6:27"
+    ]
   },
   {
     "name": "Time Management",
     "description": "I work with diligence, completing my tasks in a timely manner, yet leaving sufficient time for other priorities in life.",
     "category": "Industry",
     "discipline": "Fasting",
-    "principles": []
+    "principles": [
+      "Ecc 3:1-13",
+      "Luk 16:10-13",
+      "Luk 19:11-17"
+    ]
   },
   {
     "name": "Enjoyment",
     "description": "My work brings me satisfaction and enjoyment. I can not think of anything else I would rather be doing.",
     "category": "Industry",
     "discipline": "Meditation",
-    "principles": []
+    "principles": [
+      "Ecc 2:18-26",
+      "Psa 127:1-2",
+      "Psa 119:105-112"
+    ]
   },
   {
     "name": "Respect",
     "description": "I am respected and well-liked by people in the community who know me. They like to spend time with me.",
     "category": "Society",
     "discipline": "Lifestyle",
-    "principles": []
+    "principles": [
+      "Pro 31:10-31",
+      "Luk 19:1-10",
+      "1 Th 4:11-12"
+    ]
   },
   {
     "name": "Neighbors",
     "description": "I know my immediate neighbors by name and have a good relationship with them. We enjoy living on the same street.",
     "category": "Society",
     "discipline": "Rest",
-    "principles": []
+    "principles": [
+      "Mat 22:36-40",
+      "Eph 4:17-32",
+      "1 Pe 2:11-12"
+    ]
   },
   {
     "name": "Civic Duties",
     "description": "I gladly fulfill my civic duties (i.e. voting, jury duty, paying taxes, school involvement) when I am called upon to do so.",
     "category": "Society",
     "discipline": "Sacrifice",
-    "principles": []
+    "principles": [
+      "Ecc 8:2-6",
+      "Luk 20:20-26",
+      "Rom 13:6-7"
+    ]
   },
   {
     "name": "Peacemaker",
     "description": "I am a peacemaker. I do not engage in conversation or behavior that denigrate people of other races, religions or cultures.",
     "category": "Society",
     "discipline": "Attendance",
-    "principles": []
+    "principles": [
+      "Mat 5:9",
+      "Jas 3:13-18",
+      "Tit 3:10-11"
+    ]
   },
   {
     "name": "Charitable",
     "description": "When I see an individual or family in need, I am quick to give of my time and my resources to bless them.",
     "category": "Society",
     "discipline": "Tithing",
-    "principles": []
+    "principles": [
+      "Mat 6:1-4",
+      "Mat 25:31-46",
+      "Luk 14:12-14"
+    ]
   },
   {
     "name": "Law Abiding",
     "description": "I am an exemplary citizen, refusing to engage in any kind of behavior that could get me in trouble with the law.",
     "category": "Society",
     "discipline": "Confession",
-    "principles": []
+    "principles": [
+      "Rom 13:1-5",
+      "Tit 3:1-8",
+      "1 Pe 2:13-17"
+    ]
   },
   {
     "name": "Positive Influence",
     "description": "I associate with several groups of people in the community and have a strong, positive influence in their lives.",
     "category": "Society",
     "discipline": "Reflection",
-    "principles": []
+    "principles": [
+      "Mat 9:9-13",
+      "1 Co 9:19-23",
+      "Php 2:12-15"
+    ]
   },
   {
     "name": "Cultural Awareness",
     "description": "I spend time with diverse groups of people and have a good understanding of their various cultures and philosophies.",
     "category": "Society",
     "discipline": "Study",
-    "principles": []
+    "principles": [
+      "Act 17:16-34",
+      "1 Co 10:23-33",
+      "Eph 4:2-6"
+    ]
   },
   {
     "name": "Discovery",
     "description": "I know what my various gifts and talents are and I am often encouraged by others to use them.",
     "category": "Talents",
     "discipline": "Solitude",
-    "principles": []
+    "principles": [
+      "1 Co 12:4-7",
+      "1 Ti 4:14-15",
+      "Rom 12:1-3"
+    ]
   },
   {
     "name": "Stewardship",
     "description": "I freely use my talents and abilities for the benefit of others without expecting anything in return.",
     "category": "Talents",
     "discipline": "Tithing",
-    "principles": []
+    "principles": [
+      "Mat 9:35-38",
+      "1 Co 12:12-27",
+      "1 Pe 4:10-11"
+    ]
   },
   {
     "name": "Practice",
     "description": "I regularly spend time sharpening my abilities and strengthening my skills so that I might perform with excellence.",
     "category": "Talents",
     "discipline": "Rest",
-    "principles": []
+    "principles": [
+      "Ecc 10:10",
+      "2 Ti 4:14-16",
+      "2 Ti 1:5-7"
+    ]
   },
   {
     "name": "Teachable",
     "description": "I continually seek out others who are more proficient than I am in order to learn from them and improve my talens.",
     "category": "Talents",
     "discipline": "Guidance",
-    "principles": []
+    "principles": [
+      "Pro 13:20",
+      "2 Ti 3:14-17",
+      "Pro 19:20"
+    ]
   },
   {
     "name": "Teaching Others",
     "description": "I can often be found helping others develop their gifts and talents and encouraging them to use them.",
     "category": "Talents",
     "discipline": "Reflection",
-    "principles": []
+    "principles": [
+      "2 Ti 2:23-25",
+      "Tit 2:7-8",
+      "1 Pe 5:2-4"
+    ]
   },
   {
     "name": "Cooperative",
     "description": "Whenever I use my talents and abilities in conjunction with other people, I am a team player. I am often asked back.",
     "category": "Talents",
     "discipline": "Confession",
-    "principles": []
+    "principles": [
+      "1 Co 3:5-8",
+      "Php 4:2-7",
+      "Luk 16:10-12"
+    ]
   },
   {
     "name": "Humble",
     "description": "I am not overly concerned with receiving credit for my contributions, and I am content when others surpass my abilities.",
     "category": "Talents",
     "discipline": "Celebration",
-    "principles": []
+    "principles": [
+      "Luk 14:7-11",
+      "1 Co 13:1-6",
+      "Php 2:3-11"
+    ]
   },
   {
     "name": "Confident",
     "description": "When called upon to use my talents, I am confident that I can get the job done. I enjoy a good challenge.",
     "category": "Talents",
     "discipline": "Meditation",
-    "principles": []
+    "principles": [
+      "1 Sa 17:32-50",
+      "1 Ch 28:20",
+      "Php 4:13"
+    ]
   }
 ]
