@@ -52,10 +52,13 @@ async function route([category, goal, type, sub]) {
 
   if (type) {
     document.getElementById('discipline-modal').style.display = 'block';
-    await wait(200);
+    document.querySelector('#discipline-modal .modal__content').innerHTML = document.querySelector(`[data-discipline="${sub}"]`).innerText;
+    await wait(50);
     document.querySelector('#discipline-modal .modal__container').className = 'modal__container active';
   } else {
     document.getElementById('discipline-modal').style.display = 'none';
+    document.querySelector('#discipline-modal .modal__container').className = 'modal__container';
+    document.querySelector('#discipline-modal .modal__content').innerHTML = '';
   }
 }
 

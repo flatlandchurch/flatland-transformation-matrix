@@ -104,7 +104,7 @@ h2 {
 }
 
 .modal {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -125,11 +125,52 @@ h2 {
 .modal__container {
     max-width: 350px;
     width: 100%;
-    height: 100px;
     background: #fff;
     z-index: 1000;
     position: absolute;
     border-radius: 8px;
     left: calc(50% - 175px);
-    top: 60px;
+    top: 200px;
+    opacity: 0;
+    transition: all 0.3s ease-in;
+    padding: 12px;
+    box-sizing: border-box;
+}
+
+.modal__content ul {
+    margin-left: 24px;
+}
+
+.modal__content ul li {
+    margin-top: 8px;
+}
+
+.modal__content > strong {
+    margin-top: 12px;
+    display: block;
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+
+.modal__content .verse {
+    padding-bottom: 12px;
+    border-bottom: 1px solid #DFE1E6;
+}
+
+.modal__container.active {
+    top: 24px;
+    opacity: 1;
+}
+
+.modal button {
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    appearance: none;
+    border: none;
+    border-radius: 8px;
+    background: #0052CC;
+    color: #fff;
+    padding: 8px 14px;
+    margin: 24px auto 0;
 }

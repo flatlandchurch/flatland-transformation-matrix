@@ -50,7 +50,7 @@ const Header = (title, content) =>
 `;
 
 const Modal = ({ name, verse, practices }) => `
-<script type="template/html" data-disicpline="${name
+<script type="template/html" data-discipline="${name
   .toLowerCase()
   .replace(/\s/g, "-")}">
     <h2>${name}</h2>
