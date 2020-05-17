@@ -1,0 +1,47 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #f4f5f7;
+}
+
+#app {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.card {
+    width: 100%;
+    display: block;
+    background: #fff;
+    border-radius: 12px;
+    padding: 12px;
+    box-sizing: border-box;
+    box-shadow: 0 1px 2px 0  rgba(9, 30, 66, 0.25);
+}
+
+.category:not(.active) {
+    display: none;
+}
+
+header {
+    position: sticky;
+    width: 100%;
+    top: 0;
+    left: 0;
+    padding: 12px;
+    box-sizing: border-box;
+}
+
+header h1 {
+    width: max-content;
+    padding: 4px 8px;
+    box-sizing: border-box;
+    font-size: 14px;
+    background: #DFE1E6;
+    border-radius: 50px;
+    margin: 0 auto;
+}
