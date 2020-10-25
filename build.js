@@ -37,7 +37,7 @@ const Card = ({ name, description, discipline, category, principles }) =>
 const DisciplineCard = ({ name, description, verse }) =>
 `<div class="card">
     <h2>${name}</h2>
-    ${description.split('\n').map((d) => `<p>${d}</p>`)}
+    ${description.split('\n').map((d) => `<p>${d}</p>`).join('\n')}
     <div class="card__details">
       <div class="verse">
           <p>${verse.content}</p>
