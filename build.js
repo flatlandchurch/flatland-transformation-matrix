@@ -34,6 +34,18 @@ const Card = ({ name, description, discipline, category, principles }) =>
     </div>
 </div>`;
 
+const DisciplineCard = ({ name, description, verse }) =>
+`<div class="card">
+    <h2>${name}</h2>
+    <p>${description}</p>
+    <div class="card__details">
+      <div class="verse">
+          <p>${verse.content}</p>
+          <strong>${verse.ref}</strong>
+      </div>
+  </div>
+</div>`;
+
 const Category = ({ idx, content, name }) =>
   `<div class="category${
     idx === 0 ? " active" : ""
@@ -87,13 +99,30 @@ const Modal = ({ name, verse, practices }) => `
     ...disciplines.map(Modal),
   ].join("\n");
 
-  const html = await render(path.join(__dirname, "template.ejs"), {
+  const disciplineContent = disciplines
+    .filter(({ description }) => description)
+    .map(DisciplineCard)
+    .join('\n');
+
+  const matrix = await render(path.join(__dirname, "template.ejs"), {
     content,
     year: new Date().getFullYear(),
     version,
   });
-  await write(
-    path.join(__dirname, "index.html"),
-    prettier.format(html, { parser: "html" })
-  );
+  const discipline = await render(path.join(__dirname, 'disciplines.ejs'), {
+    content: disciplineContent,
+    year: new Date().getFullYear(),
+    version,
+  })
+
+  await Promise.all([
+    write(
+      path.join(__dirname, "index.html"),
+      prettier.format(matrix, { parser: "html" })
+    ),
+    write(
+      path.join(__dirname, "disciplines.html"),
+      prettier.format(discipline, { parser: "html" })
+    ),
+  ]);
 })();

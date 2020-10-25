@@ -37,6 +37,10 @@ a {
     border-top: 1px solid #DFE1E6;
 }
 
+.disciplines-app .card__details {
+    grid-template-columns: 1fr;
+}
+
 .card__details strong {
     font-size: 12px;
     margin-bottom: 4px;

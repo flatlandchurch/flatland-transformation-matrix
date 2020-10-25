@@ -5,14 +5,16 @@
       "ref": "Hebrews 10:25 CEV",
       "content": "Some people have gotten out of the habit of meeting for worship, but we must not do that. We should keep on encouraging each other, especially since you know that the day of the Lord’s coming is getting closer."
     },
+    "description": "Countless people go to church on a regular basis. For some, it’s the highlight of their week. For others, it is endured as a mundane ritual. Perhaps you’ve experienced a boring church service or two! If you are going to make church attendance a habit, I want you to get the most out of it.\nSo why do some people get a lot out of attending church while others come away with nothing? To be sure, what goes on in a church service has a lot to do with what you get out of it. Make sure you attend a church that is on fire for God. But equally important is what you do when you attend church. Actively listen to the teaching, willingly participate in public worship, and intentionally build relationships with others for the sake of mutual, spiritual encouragement.",
     "practices": {
       "relationships.social-network": "Regularly attend an activity that will enable you to interact with others and build relationships.",
       "industry.employee-relations": "Actively participate in team meetings and other activities that will strengthen your relationships with coworkers.",
-      "society.peacemaker": "Fina and attend a group or organization comprised of people with whom you struggle to associate."
+      "society.peacemaker": "Find and attend a group or organization comprised of people with whom you struggle to associate."
     }
   },
   {
     "name": "Celebration",
+    "description": "I believe church services should be full of celebration, but this is something you must also learn to do on your own. It’s what brings joy and satisfaction to your relationship with God. All you need is a little bit of awareness. God is always revealing Himself to you in one way or another—a financial blessing, a fantastic sunset, a moment of peace, an unexpected inspiration, or a powerful storm. All such things carry a message from God. He’s letting you know He cares for you and has the ability to keep you going. But be careful! Celebrating God may cause you to dance or sing or shout. It may cause you to be silent or weep or laugh. If nothing else, it will cause you to live a joy-filled life!",
     "verse": {
       "ref": "Philippians 4:4 MSG",
       "content": "Celebrate God all day, every day. I mean, revel in him! Make it as clear as you can to all you meet that you’re on their side, working with them and not against them. Help them see that the Master is about to arrive. He could show up any minute!"
@@ -25,6 +27,7 @@
   },
   {
     "name": "Confession",
+    "description": "Confession is good for the soul. It is something we all must learn to do well. Guilt has a way of ruining our Spiritual Journey. Confession is God’s tool for eliminating guilt and restoring our enthusiasm for life. It begins by admitting your sin before God and asking for His forgiveness. It is also advantageous to share it with a close friend or mentor who can pray with you and help you set healthy boundaries for your life.\nThe evidence of true confession is your willingness to do whatever is in your power to make things right. Therefore, confession is most effective when you seek to reconcile with those you have offended. Whether they accept your apology is up to them. Here’s a true statement: an apology only requires one individual; reconciliation requires two. Do your part and more often than not you’ll find the other party doing theirs.",
     "verse": {
       "ref": "1 John 1:8,9 CEV",
       "content": "If we say that we have not sinned, we are fooling ourselves, and the truth isn’t in our hearts. But if we confess our sins to God, he can always be trusted to forgive us and take our sins away."
@@ -38,6 +41,7 @@
   },
   {
     "name": "Fasting",
+    "description": "If you are really interested in spicing up your spiritual life, try fasting. The typical fast involves giving up food for a designated period. It can be for just one meal or as long as several weeks. The purpose isn’t to lose weight, but to pursue a deeper relationship with God. In essence, you are telling your body that you would rather be full of God’s Spirit than be full of food. Rather than answering your hunger pains with a mouthful of goodies, you respond to them with a cry for more of God.\nFood is not the only thing you can fast. Any regular, pleasurable activity can be given up for a specified period of time for the purpose of seeking God. You may fast at any time, but it is especially helpful when you are in a confusing or challenging situation and wish to receive an answer from the Lord.",
     "verse": {
       "ref": "Matthew 6:16-18 NLT",
       "content": "And when you fast, don’t make it obvious, as the hypocrites do, for they try to look miserable and disheveled so people will admire them for their fasting. I tell you the truth, that is the only reward they will ever get. But when you fast, comb your hair and wash your face. Then no one will notice that you are fasting, except your Father, who knows what you do in private. And your Father, who sees everything, will reward you."
@@ -50,6 +54,7 @@
   },
   {
     "name": "Guidance",
+    "description": "Come springtime, most students can’t wait to get out of school. Upon graduation, it’s not uncommon for students to think to themselves, “I’ll never have to sit in a classroom again!” But the truly wise know the importance of continued learning. They strive to learn from those who have gone before or from those who are farther ahead.\nDo you have a few mentors who stretch you and challenge you along your Spiritual Journey? One of the great Disciplines is taking time to find someone greater than you in whom you can trust and confide. Then spend as much time as you can listening and learning.",
     "verse": {
       "ref": "Proverbs 1:5 NIV",
       "content": "let the wise listen and add to their learning, and let the discerning get guidance—"
@@ -62,6 +67,7 @@
   },
   {
     "name": "Lifestyle",
+    "description": "Everyone has 24 hours in a day and seven days in a week. It’s hard to believe, but no one has more time than anyone else. So how do you choose to live your life? What determines your daily schedule and regular activities? Everyone centers their life around something: kids, leisure, work, hobbies, entertainment, friendships. An individual’s lifestyle revolves around whatever is at the center.\nIf you want to experience all that God has for you, then you must learn to keep Christ at the center. Adjust your lifestyle to revolve around His will for your life. This is not an easy discipline. You’ll face criticism and complaints from people you love. But the rewards are worth it!",
     "verse": {
       "ref": "1 Peter 3:15,16 CEV",
       "content": "Honor Christ and let him be the Lord of your life. Always be ready to give an answer when someone asks you about your hope. Give a kind and respectful answer and keep your conscience clear. This way you will make people ashamed for saying bad things about your good conduct as a follower of Christ."
@@ -75,6 +81,7 @@
   },
   {
     "name": "Meditation",
+    "description": "Meditation is the act of thinking deeply. Many religious groups encourage meditation of one sort or another. They will have their followers focus intently on a symbol, sound, color or other physical element. The Bible, however, encourages us to ponder the matchless promises of God. This type of meditation doesn’t require a special ceremony or mystical experience. All you need is a knowledge of His promises. As you study the Bible, pay attention to these promises. Some of His promises were for specific people at a specific time. Others are for all people at all times. You may also receive your own specific promises from God as you pray. Meditate on them and be filled with joy.",
     "verse": {
       "ref": "Psalm 119:147,148 NIV",
       "content": "I rise before dawn and cry for help; I have put my hope in your word. My eyes stay open through the watches of the night, that I may meditate on your promises."
@@ -87,6 +94,7 @@
   },
   {
     "name": "Prayer",
+    "description": "Prayer, both private and public, needs to become a mainstay in the life of a Christian. Even when you believe prayer works, it is always a chore to motivate yourself to do it. But when you do, the benefits are endless.\nThere are also an endless variety of ways you can pray. You can pray out loud. You can pray quietly. You can pray standing up with your hands raised to the sky. You can pray laying down with your face to the ground. You can pray with a mob of people. You can pray all by yourself. The only thing you should avoid is the avoidance of prayer.\nTo help you get started, here is a short acronym that reveals some of the key aspects of prayer: Praise, Repent, Ask and Yield. As you become more comfortable praying, you will learn to expand on this simple model and develop your own preferred style of communicating with God.",
     "verse": {
       "ref": "Jeremiah 29:12,13 NIV",
       "content": "Then you will call on me and come and pray to me, and I will listen to you. You will seek me and find me when you seek me with all your heart."
@@ -99,6 +107,7 @@
   },
   {
     "name": "Reflection",
+    "description": "I’m a visionary. I would rather think ahead 20 years than look back 20 minutes. Nonetheless, I have learned the importance of reflecting on what God has done in my life. It is important to remember where you were when He found you and how far He has walked with you on your Journey. If you forget the life from which you were rescued, you will be tempted to take this new life in Christ for granted. You will also find it more and more difficult to relate to those coming along behind you on the Spiritual Journey. Finally, taking time to reflect will help you know if you’ve slowed down or stopped traveling, and inspire you to travel on.",
     "verse": {
       "ref": "Ephesians 2:12,13 NCV",
       "content": "remember that at that time you were separate from Christ, excluded from citizenship in Israel and foreigners to the covenants of the promise, without hope and without God in the world. But now in Christ Jesus you who once were far away have been brought near by the blood of Christ."
@@ -112,6 +121,7 @@
   },
   {
     "name": "Rest",
+    "description": "Rest is God’s idea! Are you getting enough of it? Maybe you’re getting too much. It’s important to know how much rest your body needs to stay invigorated. In our fast-paced world it seems to take more and more discipline to get proper rest.\nIf you desire to stay healthy and energized for your Spiritual Journey, take at least one day a week to rest your mind and body. Spend it with friends or family if you like, but be sure to avoid the pressures of work and other stressful situations. This day provides an excellent opportunity to give extended time to other Spiritual Disciplines listed in this chapter. Jesus valued his periods of rest. You can to!",
     "verse": {
       "ref": "Mark 6:31,32 NIV",
       "content": "Then, because so many people were coming and going that they did not even have a chance to eat, he said to them, “Come with me by yourselves to a quiet place and get some rest.” So they went away by themselves in a boat to a solitary place."
@@ -151,6 +161,7 @@
   },
   {
     "name": "Study",
+    "description": "The Bible is the world’s best-seller of all time! You can study it for the rest of your life and never stop finding new truths and insights from within its pages. In case the task of reading through it seems intimidating, let me give you a few tips to help you get started.\nThe Bible is divided into two sections: the Old Testament and the New Testament. The OT was written before Jesus came to earth and contains stories of God’s involvement in the world and prophecies of Christ’s coming. The NT was written after Jesus died and rose from the dead. It contains stories of the lives and teachings of Christ and His first followers.",
     "verse": {
       "ref": "2 Timothy 3:16,17 MSG",
       "content": "But don’t let it faze you. Stick with what you learned and believed, sure of the integrity of your teachers—why, you took in the sacred Scriptures with your mother’s milk! There’s nothing like the written Word of God for showing you the way to salvation through faith in Christ Jesus. Every part of Scripture is God-breathed and useful one way or another—showing us truth, exposing our rebellion, correcting our mistakes, training us to live God’s way. Through the Word we are put together and shaped up for the tasks God has for us."
@@ -163,6 +174,7 @@
   },
   {
     "name": "Tithing",
+    "description": "Your first question may be, “What is tithing?” Tithing, or giving a tithe, is contributing ten percent of your gross income to your local church. I know this sounds shocking if you are unfamiliar with the practice, but bear with me for a moment. If you’re like me, you can’t stand listening to ministers beg and plead for money. This has turned more than one person away from church. In fact, I would have you think twice before giving your money to such a ministry.\nOn the other hand, God has promised to reward those who faithfully and cheerfully support His work in the local church. As you will see in the verse below, He even encourages you to test Him in this! He will bless you in more ways than you can count, from financial provision to fulfillment in your career, from the joy of touching others to a sense of significance in your life. Someone once said that God can make 90% of your income stretch farther than you can using all of it. I know it requires a leap of faith, but I encourage you to give it a try. I know you won’t be disappointed.",
     "verse": {
       "ref": "Malachi 3:10 NIV",
       "content": "Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this,” says the Lord Almighty, “and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it."
