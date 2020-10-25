@@ -149,7 +149,8 @@ h2 {
     margin-top: 8px;
 }
 
-.modal__content > strong {
+.modal__content > strong,
+.disciplines-app strong {
     margin-top: 12px;
     display: block;
     font-size: 12px;
